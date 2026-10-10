@@ -1,0 +1,13 @@
+req_id,description,subsystem,severity
+REQ-BLD-001,Spar cap ultimate flapwise tensile strain must exceed 1.2% without micro-cracking,Spar Cap,High
+REQ-BLD-002,Root joint T-bolt connection fatigue life must withstand 10^7 load cycles,Root Joint,High
+REQ-BLD-003,Aerodynamic shell max deflection at 100% rated wind speed must maintain > 1.5m tower clearance,Aerodynamic Shell,High
+REQ-BLD-004,Shear web adhesive bond line shear stress under extreme gust load must remain below 12 MPa,Shear Web,High
+REQ-BLD-005,LPS down-conductor peak impulse current capacity of 200 kA per IEC 61400-24,Lightning Protection System (LPS),Medium
+REQ-BLD-006,Trailing edge adhesive joint peel strength >= 15 kN/m under environmental aging,Trailing Edge,Medium
+REQ-BLD-007,Spar cap compressive buckling safety factor >= 1.8 under extreme load case DLC 1.3,Spar Cap,High
+REQ-BLD-008,Aerodynamic shell UV degradation resistance (ISO 4892-2) color shift Delta E < 3.0 after 3000h,Aerodynamic Shell,Low
+REQ-BLD-009,Root joint flange surface flatness tolerance within 0.25 mm across bolt circle,Root Joint,Medium
+REQ-BLD-010,Shear web sandwich core shear modulus verification across temperature range -40C to +50C,Shear Web,Medium
+REQ-BLD-011,LPS root receptor lightning grounding path resistance < 10 mOhm,Lightning Protection System (LPS),High
+REQ-BLD-012,Trailing edge noise reduction serrations aerodynamic drag penalty < 1.5%,Trailing Edge,Low

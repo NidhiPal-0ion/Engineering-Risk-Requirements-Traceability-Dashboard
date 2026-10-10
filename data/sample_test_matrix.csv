@@ -1,0 +1,9 @@
+test_id,test_name,req_id,description,status
+TEST-BLD-101,Full-Scale Flapwise Bending Test,REQ-BLD-001,"Static bending validation covering REQ-BLD-001 tensile strain and REQ-BLD-003 deflection limits",PASSED
+TEST-BLD-102,Root T-Bolt Accelerated Fatigue Test,REQ-BLD-002,"Cyclic loading of root joint assembly to 10^7 cycles (REQ-BLD-002)",FAILED
+TEST-BLD-103,Shear Web Lap Shear Coupon Test,REQ-BLD-004,"Adhesive shear stress evaluation under extreme gust simulated load (REQ-BLD-004)",PASSED
+TEST-BLD-104,High-Current Impulse Discharge Test,REQ-BLD-005,"High voltage 200 kA lightning strike verification for LPS down-conductor (REQ-BLD-005)",PASSED
+TEST-BLD-105,Trailing Edge Peel Strength Test,REQ-BLD-006,"Peel resistance measurement per ASTM D3167 (REQ-BLD-006)",PASSED
+TEST-BLD-106,Spar Cap Buckling Load Test,REQ-BLD-007,"Sub-component compression test for spar cap buckling SF 1.8 (REQ-BLD-007)",IN_PROGRESS
+TEST-BLD-107,Root Flange Laser Profilometry Scan,REQ-BLD-009,"Precision surface scanning of root joint bolt circle (REQ-BLD-009)",PASSED
+TEST-BLD-108,Sandwich Core Thermal Shear Test,REQ-BLD-010,"Climatic chamber shear modulus testing (-40C to +50C) for REQ-BLD-010",PASSED
